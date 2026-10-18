@@ -5,7 +5,7 @@ Companion code for: *Multi-Agent Deep Reinforcement Learning for Energy-Cost
 Co-Optimization in 5G/6G Networks: A Techno-Economic Simulation Framework*
 (Energy Engineering, Manuscript ID 91065).
 
-**DOI (Zenodo):** [TO COMPLETE — e.g. 10.5281/zenodo.XXXXXXX]
+**DOI (Zenodo):** 10.5281/zenodo.23459809
 
 ## Environment
 - Python >= 3.10, PyTorch >= 2.0 (see `requirements.txt`)
