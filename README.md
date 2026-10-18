@@ -48,7 +48,7 @@ All randomness is fixed by `config/seeds.txt` (10 seeds, one per line).
 ## Citation
     Lazrek H., Sbai El Hassani L. O., Zouiten M. (2026). Multi-Agent Deep
     Reinforcement Learning for Energy-Cost Co-Optimization in 5G/6G Networks.
-    Energy Engineering. DOI: [TO COMPLETE]
+    Energy Engineering. DOI: 
 
 ## License
 MIT (see LICENSE).
